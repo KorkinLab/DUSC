@@ -53,7 +53,7 @@ def calc_embedding(input_path):
     :param input_path:
     :return xy:
     """
-    data_set = load_data(input_path, transpose=True)
+    data_set = load_data(input_path)
     if debug_stmts:
         print 'Dataset shape - ', str(data_set.shape)
         print 'Max. expression value - ', numpy.max(data_set)
