@@ -1,6 +1,6 @@
 # DUSC
 Deep Unsupervised Single-cell Clustering (DUSC) is a hybrid approach for cell type discovery in scRNA-seq data.   
-Please follow the [wiki](https://github.com/KorkinLab/DUSC/wiki) for steps to setup and use DUSC.
+Please follow the [**wiki**](https://github.com/KorkinLab/DUSC/wiki) for steps to setup and use DUSC.
 
 #### Author
 Suhas Srinivasan
