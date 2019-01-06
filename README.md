@@ -9,4 +9,4 @@ Suhas Srinivasan
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 #### Preprint
-[A Hybrid Deep Clustering Approach for Robust Cell Type Profiling Using Single-cell RNA-seq Data](https://www.biorxiv.org/content/early/2019/01/04/511626)
+[A Hybrid Deep Clustering Approach for Robust Cell Type Profiling Using Single-cell RNA-seq Data](https://doi.org/10.1101/511626)
