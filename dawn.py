@@ -339,7 +339,7 @@ def deep_learning(input_path, dataset, hidden_units):
     weights = numpy.asarray(da.weights.get_value(borrow=True).T)
     output_file = input_path.rsplit('.', 1)[0] + '-latent_features.csv'
     header = ''
-    length = neurons
+    length = hidden_units
     list = range(1, length+1)
     for i in list:
         if i < length:
