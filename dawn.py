@@ -274,7 +274,7 @@ def deep_learning(input_path, dataset, hidden_units):
     """
     # Stable parameters for the DAE
     # Changes to these parameters affects feautre learning
-    training_epochs = 500
+    training_epochs = 250
     learning_rate = 0.05
     batch_size = 20
     corruption_level = 0.10
