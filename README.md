@@ -2,11 +2,14 @@
 Deep Unsupervised Single-cell Clustering (DUSC) is a hybrid approach for cell type discovery in scRNA-seq data.   
 Please follow the [**wiki**](https://github.com/KorkinLab/DUSC/wiki) for steps to setup and use DUSC.
 
-#### Author
+### Author
 Suhas Srinivasan
 
-#### License
+### License
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
 
-#### Preprint
-[A Hybrid Deep Clustering Approach for Robust Cell Type Profiling Using Single-cell RNA-seq Data](https://doi.org/10.1101/511626)
+### Published in RNA
+[A Hybrid Deep Clustering Approach for Robust Cell Type Profiling Using Single-cell RNA-seq Data](https://rnajournal.cshlp.org/content/26/10/1303.full)
+
+**Suggested Citation:**  
+Srinivasan S, Leshchyk A, Johnson NT, Korkin D. A hybrid deep clustering approach for robust cell type profiling using single-cell RNA-seq data. RNA. 2020 Oct 1;26(10):1303-19.
